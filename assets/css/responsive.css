@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  header nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  header nav a {
+    margin: 5px 0;
+  }
+
+  .logo {
+    display: block;
+    margin: 0 auto 10px auto;
+  }
+}
